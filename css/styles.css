@@ -111,6 +111,11 @@ button:focus,
     padding: 20px;
 }
 
+#imagesize {
+    width: 400px;
+    height: 140px;
+}
+
 .page-header__item {
     flex: 0 1 200px;
 }
