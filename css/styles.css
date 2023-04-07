@@ -3,11 +3,11 @@
 }
 
 :root {
-    --primary-color: #202a25;
-    --secondary-color: #5f4bb6;
-    --active-link: #904c77;
-    --background-color: #dcf6df;
-    --primary-button: #86a5d9;
+    --primary-color: #a61f1f;
+    --secondary-color: #01401c;
+    --active-link: #d9738e;
+    --background-color: #d9beb8;
+    --primary-button: #BF5D24;
     --secondary-button: #e0b354;
     --dark-grey: #2b2b2b;
 }
@@ -223,3 +223,23 @@ button:focus,
     }
 }
 
+/* Color Theme Swatches in Hex */
+.2020---Illustrations-1-hex { color: #D9738E; }
+.2020---Illustrations-2-hex { color: #01401C; }
+.2020---Illustrations-3-hex { color: #BF5D24; }
+.2020---Illustrations-4-hex { color: #D9BEB8; }
+.2020---Illustrations-5-hex { color: #A61F1F; }
+
+/* Color Theme Swatches in RGBA */
+.2020---Illustrations-1-rgba { color: rgba(217, 115, 142, 1); }
+.2020---Illustrations-2-rgba { color: rgba(1, 64, 28, 1); }
+.2020---Illustrations-3-rgba { color: rgba(191, 93, 36, 1); }
+.2020---Illustrations-4-rgba { color: rgba(217, 190, 184, 1); }
+.2020---Illustrations-5-rgba { color: rgba(166, 31, 31, 1); }
+
+/* Color Theme Swatches in HSLA */
+.2020---Illustrations-1-hsla { color: hsla(344, 57, 65, 1); }
+.2020---Illustrations-2-hsla { color: hsla(145, 96, 12, 1); }
+.2020---Illustrations-3-hsla { color: hsla(22, 68, 44, 1); }
+.2020---Illustrations-4-hsla { color: hsla(10, 30, 78, 1); }
+.2020---Illustrations-5-hsla { color: hsla(0, 68, 38, 1); }
