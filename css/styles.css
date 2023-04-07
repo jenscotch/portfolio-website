@@ -223,23 +223,3 @@ button:focus,
     }
 }
 
-/* Color Theme Swatches in Hex */
-.2020---Illustrations-1-hex { color: #D9738E; }
-.2020---Illustrations-2-hex { color: #01401C; }
-.2020---Illustrations-3-hex { color: #BF5D24; }
-.2020---Illustrations-4-hex { color: #D9BEB8; }
-.2020---Illustrations-5-hex { color: #A61F1F; }
-
-/* Color Theme Swatches in RGBA */
-.2020---Illustrations-1-rgba { color: rgba(217, 115, 142, 1); }
-.2020---Illustrations-2-rgba { color: rgba(1, 64, 28, 1); }
-.2020---Illustrations-3-rgba { color: rgba(191, 93, 36, 1); }
-.2020---Illustrations-4-rgba { color: rgba(217, 190, 184, 1); }
-.2020---Illustrations-5-rgba { color: rgba(166, 31, 31, 1); }
-
-/* Color Theme Swatches in HSLA */
-.2020---Illustrations-1-hsla { color: hsla(344, 57, 65, 1); }
-.2020---Illustrations-2-hsla { color: hsla(145, 96, 12, 1); }
-.2020---Illustrations-3-hsla { color: hsla(22, 68, 44, 1); }
-.2020---Illustrations-4-hsla { color: hsla(10, 30, 78, 1); }
-.2020---Illustrations-5-hsla { color: hsla(0, 68, 38, 1); }
